@@ -17,3 +17,8 @@ Give me a ⭐ if you like it.
 
 ## 🦔 Contributions
 I've done my best to compile a comprehensive list of words, but I'm sure there are still some missing. That's why I'm inviting you to help make this list even better! If you have any words or categories that you think should be included, please don't hesitate to open a pull request. I'll be carefully reviewing each request and greatly appreciate your contributions!
+
+## ☕ Donation
+Love the program? Consider a donation to support my work.
+
+[!["Donation"](https://raw.githubusercontent.com/soranoo/Donation/main/resources/image/DonateBtn.png)](https://github.com/soranoo/Donation) <- click me~
